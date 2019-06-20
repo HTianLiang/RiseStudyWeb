@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MysqlParsingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="spring-aop-4.3.18.RELEASE">
+      <CLASSES>
+        <root url="jar://E:/文件/手册&amp;jar包/jar包/spring-framework-4.2.4.RELEASE/libs/spring-aop-4.3.18.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
